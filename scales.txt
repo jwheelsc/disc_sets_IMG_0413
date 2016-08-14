@@ -1,0 +1,6 @@
+xlms = [599 3792]
+ylms = [675 2293]
+
+also note that the scale was estimated for the hammer head at 
+0.15m, but I am going to have to recalculate that when I 
+actually know the dimensions of the head. 
